@@ -5,7 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": " parcel build index.html --dist-dir  ./dist"
+    "build": " parcel build src/index.html --dist-dir  ./dist"
   },
   "author": "Jery Rolience",
   "license": "ISC",
